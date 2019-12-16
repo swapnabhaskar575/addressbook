@@ -435,7 +435,7 @@
                         <configuration>
                             <targetJdk>1.8</targetJdk>
                             <aggregate>true</aggregate>
-                            <format>xml</format>
+                            <format>html</format>
                             <rulesets>
                                 <ruleset>/pmd-rules.xml</ruleset>
                             </rulesets>
